@@ -1,0 +1,1 @@
+🌐️👋️🌐️-🌐️ The official source repository for the website of the WarmWelcome project, a protocol for opening a single web-page upon connecting to a Wi-Fi network/hotspot (warm spot) which gives you basic information about the network.
